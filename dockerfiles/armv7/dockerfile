@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-FROM node
+FROM node:8.14.0-alpine as builder
 
 ENV LANG C.UTF-8
 
