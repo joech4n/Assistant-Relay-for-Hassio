@@ -5,7 +5,7 @@
   "description": "Send (broadcast) commands to your Google Assistant via REST command",
   "arch": ["amd64", "armv7", "armhf"],
   "startup": "before",
-  "url": "https://github.com/TH1485/Assistant-Relay-for-Hassio",
+  "url": "https://github.com/th1485/assistant-relay-for-hassio",
   "boot": "auto",
   "options": {
   },
@@ -14,5 +14,5 @@
     "3000/tcp": 3000
   },
   "webui":"http://[HOST]:[PORT:3000]",
-  "image": "TH1485/{arch}-hassio-assistant_relay"
+  "image": "th1485/{arch}-hassio-assistant_relay"
 }
