@@ -14,5 +14,5 @@
     "port": "int"
   },
   "host_network": true,
-  "image": "apipa169/{arch}-hassio-assistant_relay"
+  "image": "TH1485/{arch}-hassio-assistant_relay"
 }
