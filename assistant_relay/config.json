@@ -5,7 +5,7 @@
   "description": "Send (broadcast) commands to your Google Assistant via REST command",
   "arch": ["amd64", "armv7", "armv6"],
   "startup": "before",
-  "url": "https://github.com/Apipa169/Assistant-Relay-for-Hassio",
+  "url": "https://github.com/TH1485/Assistant-Relay-for-Hassio",
   "boot": "auto",
   "options": {
   },
