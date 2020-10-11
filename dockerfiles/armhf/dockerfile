@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-FROM homeassistant/armhf-base-raspbian:stretch
+FROM arm32v6/node:alpine
 
 ENV LANG C.UTF-8
 
