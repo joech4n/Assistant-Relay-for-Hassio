@@ -14,5 +14,5 @@
     "3000/tcp": 3000
   },
   "webui":"http://[HOST]:[PORT:3000]",
-  "image": "th1485/{arch}-hassio-assistant_relay"
+  "image": "apipa169/armv7-hassio-assistant_relay"
 }
